@@ -8,3 +8,4 @@ bread
 chicken
 Strawberry
 meat
+fish
